@@ -6,3 +6,5 @@ urlpatterns = [
     path("list", products__list), # http://127.0.0.1:8000/products/list
     path("about", products__about), # http://127.0.0.1:8000/products/about
 ]
+
+# Salam
